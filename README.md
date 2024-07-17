@@ -91,7 +91,6 @@
 <br><br><br>
 <br><br>
 
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
   </p>
 </div>
   <br>
