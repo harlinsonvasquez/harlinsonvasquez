@@ -20,7 +20,8 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **harvack25@gmail.com**
+  Contacto: **+573043847699**
 <!--Intro end-->
   </p>
 <br>
