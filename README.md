@@ -12,6 +12,7 @@
 
 <p align="left">
 🎓Estudiante de Desarrollo de Software | Desarrollador Backend
+  
 ¡Hola! Soy estudiante de 5º semestre en la Universidad Pascual Bravo, donde me enfoco en el desarrollo de software. Recientemente completé un bootcamp de 10 meses, donde adquirí habilidades prácticas en:
 
 **Java**
