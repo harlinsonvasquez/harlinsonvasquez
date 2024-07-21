@@ -16,11 +16,17 @@
 ¡Hola! Soy estudiante de 5º semestre en la Universidad Pascual Bravo, donde me enfoco en el desarrollo de software. Recientemente completé un bootcamp de 10 meses, donde adquirí habilidades prácticas en:
 
 Java
+
 Spring Boot
+
 Spring Security
+
 Spring Cloud
+
 Microservicios
+
 Docker
+
 Durante este tiempo, he trabajado en varios proyectos académicos que me han permitido aplicar mis conocimientos y desarrollar soluciones eficientes.
 
 💻 Aunque aún no tengo experiencia profesional, estoy emocionado por el camino que tengo por delante y las oportunidades que se presentarán para continuar mi desarrollo en el campo del software.
