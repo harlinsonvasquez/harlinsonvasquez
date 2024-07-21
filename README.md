@@ -14,23 +14,23 @@
 🎓Estudiante de Desarrollo de Software | Desarrollador Backend
 ¡Hola! Soy estudiante de 5º semestre en la Universidad Pascual Bravo, donde me enfoco en el desarrollo de software. Recientemente completé un bootcamp de 10 meses, donde adquirí habilidades prácticas en:
 
-Java
+**Java**
 
-Spring Boot
+**Spring Boot**
 
-Spring Security
+**Spring Security**
 
-Spring Cloud
+**Spring Cloud**
 
-Microservicios
+**Microservicios**
 
-Docker
+**Docker**
 
 Durante este tiempo, he trabajado en varios proyectos académicos que me han permitido aplicar mis conocimientos y desarrollar soluciones eficientes.
 
 💻 Aunque aún no tengo experiencia profesional, estoy emocionado por el camino que tengo por delante y las oportunidades que se presentarán para continuar mi desarrollo en el campo del software.
 
-📝 Hasta ahora, he desempeñado el rol de programador backend, y estoy ansioso por seguir creciendo en este ámbito y explorar nuevos desafíos en el futuro.
+📝 Hasta ahora, he desempeñado el rol de **programador backend**, y estoy ansioso por seguir creciendo en este ámbito y explorar nuevos desafíos en el futuro.
 
 ¡Estoy abierto a nuevas conexiones y oportunidades de colaboración!☺️
 
