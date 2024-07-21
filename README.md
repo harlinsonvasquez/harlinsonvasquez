@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Harlinson Vasquez ✨ </h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.youtube.com/@harrygamer1465" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
@@ -12,13 +12,22 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 DEVELOPER BACKEND CON JAVA Y SPRING BOOT
+🎓Estudiante de Desarrollo de Software | Desarrollador Backend
+¡Hola! Soy estudiante de 5º semestre en la Universidad Pascual Bravo, donde me enfoco en el desarrollo de software. Recientemente completé un bootcamp de 10 meses, donde adquirí habilidades prácticas en:
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+Java
+Spring Boot
+Spring Security
+Spring Cloud
+Microservicios
+Docker
+Durante este tiempo, he trabajado en varios proyectos académicos que me han permitido aplicar mis conocimientos y desarrollar soluciones eficientes.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Aunque aún no tengo experiencia profesional, estoy emocionado por el camino que tengo por delante y las oportunidades que se presentarán para continuar mi desarrollo en el campo del software.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Hasta ahora, he desempeñado el rol de programador backend, y estoy ansioso por seguir creciendo en este ámbito y explorar nuevos desafíos en el futuro.
+
+¡Estoy abierto a nuevas conexiones y oportunidades de colaboración!☺️
 
 📫 Contacto: **harvack25@gmail.com**
   Contacto: **+573043847699**
@@ -30,7 +39,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,css,html,mysql,sqlite,firebase,gtk,git,github,docker,postman,eclipse,vscode=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,css,html,mysql,sqlite,firebase,git,github,docker,postman,eclipse,vscode=12" />
   </a>
 </p>
 <br>
