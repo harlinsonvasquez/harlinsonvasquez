@@ -1,123 +1,111 @@
-<h1 align="center">Hola 👋  soy Harlinson Vasquez ✨ </h1> 
+## Sobre mí 👋
 
-<p align="left">
-  <a href="https://www.youtube.com/@harrygamer1465" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@harrygamer1465"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@harrygamer1465" /></a>
-<a href="https://www.linkedin.com/in/harlinson-vasquez-casanova-27392129b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@harrygamer1465"/></a>
-<a href = "mailto:harvack25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@harrygamer1465"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+🎓 **Tecnólogo en Desarrollo de Software (en curso)** | 💻 **Backend Java Developer**
 
-<p align="left">
-🎓Estudiante de Desarrollo de Software | Desarrollador Backend
-  
-¡Hola! Soy estudiante de 5º semestre en la Universidad Pascual Bravo, donde me enfoco en el desarrollo de software. Recientemente completé un bootcamp de 10 meses, donde adquirí habilidades prácticas en:
+Hola, soy **Harlinson Vásquez**, desarrollador **Backend Java** con más de **2 años de experiencia profesional**, especializado en la construcción de **APIs REST seguras**, **sistemas multi-tenant** y soluciones backend **escalables** usando **Java y Spring Boot**.
 
-**Java**
+Actualmente estudio **Tecnología en Desarrollo de Software** (5º semestre) en la **Institución Universitaria Pascual Bravo** y trabajo como desarrollador, participando en proyectos reales para empresas como **Bancolombia** y **Smart Menú**.
 
-**Spring Boot**
+---
 
-**Spring Security**
+## 🚀 Perfil profesional
 
-**Spring Cloud**
+- Desarrollo de **APIs REST** con **Java 17 + Spring Boot**
+- Implementación de **seguridad con Spring Security y JWT**
+- Experiencia en **sistemas multi-tenant**
+- Optimización de consultas y manejo de **PostgreSQL**
+- Pruebas automatizadas con **JUnit y Mockito**
+- Contenedorización y despliegue con **Docker**
+- Buenas prácticas de arquitectura y calidad de código
+- Trabajo colaborativo bajo metodologías **Scrum**
 
-**Microservicios**
+---
 
-**Docker**
+## 🧰 Tecnologías y herramientas
 
-Durante este tiempo, he trabajado en varios proyectos académicos que me han permitido aplicar mis conocimientos y desarrollar soluciones eficientes.
+**Lenguajes**
+- Java
+- Python
+- JavaScript
 
-💻 Aunque aún no tengo experiencia profesional, estoy emocionado por el camino que tengo por delante y las oportunidades que se presentarán para continuar mi desarrollo en el campo del software.
+**Frameworks**
+- Spring Boot
+- Spring Security
+- Spring Cloud
+- Angular
 
-📝 Hasta ahora, he desempeñado el rol de **programador backend**, y estoy ansioso por seguir creciendo en este ámbito y explorar nuevos desafíos en el futuro.
+**Bases de datos**
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDB
 
-¡Estoy abierto a nuevas conexiones y oportunidades de colaboración!☺️
+**Herramientas**
+- Git & GitHub
+- Docker
+- Postman
+- Swagger / OpenAPI
+- IntelliJ IDEA
+- Jira
+- JMeter
 
-📫 Contacto: **harvack25@gmail.com**
-  Contacto: **+573043847699**
-<!--Intro end-->
-  </p>
-<br>
+**Testing**
+- JUnit
+- Mockito
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,css,html,mysql,sqlite,firebase,git,github,docker,postman,eclipse,vscode=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+---
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+## 💼 Experiencia
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+### 🔹 Desarrollador Full Stack Java — *Bancolombia*  
+📅 **Junio 2025 – Actualidad**
+- Desarrollo de plataforma completa con **Java, Spring Boot, Angular y PostgreSQL**
+- Diseño de arquitectura backend y frontend
+- Implementación de seguridad, validaciones y manejo de errores
+- Pruebas de APIs REST con Postman
+- Enfoque en buenas prácticas y calidad de software
 
-  </p>
-</div>
-  <br>
-<br><br>
+### 🔹 Desarrollador Backend Java — *Smart Menú*  
+📅 **Enero 2024 – Junio 2025**
+- Desarrollo y mantenimiento de **APIs REST con Java 17 y Spring Boot**
+- Implementación de más de **60 endpoints REST**
+- Optimización de consultas en **PostgreSQL**
+- Integración con servicios externos (pagos y correos)
+- Pruebas unitarias con **JUnit y Mockito**
+- Despliegues con **Docker**
 
-<!--- stats (end) -->
+### 🔹 Desarrollador Java Multi-tenant — *OnCredit*  
+📅 **Octubre 2024 – Marzo 2025**
+- Refactorización e implementación de un sistema **multi-tenant**
+- Diseño de arquitectura escalable y segura
+- Desarrollo de pruebas de integración y rendimiento
 
-<!--- trophy (start) -->
+---
 
-<!--- trophy (start) -->
+## 📂 Proyectos destacados
 
+- **Sistema POS para Restaurantes**  
+  API REST con Java y Spring Boot para gestión de pedidos, productos y facturación.
 
-</p>        
-<!--- stats (end) -->
+- **Gestión de Inventarios y Facturación (RIWI)**  
+  Sistema backend en Java con manejo de stock en tiempo real.  
+  🔗 https://github.com/Riwi-Lovelace/RIWI_MARKET_BACKEND
+
+- **Espacio Promocional en el Metaverso**  
+  Proyecto Java con módulos de análisis y personalización de espacios.  
+  🔗 https://github.com/harlinsonvasquez/metaverso_java
+
+---
+
+## 🌱 Objetivo profesional
+
+Seguir creciendo como **Backend Java Developer**, fortaleciendo mis habilidades en **arquitectura**, **testing**, **seguridad** y **soluciones escalables**, para aportar valor en proyectos de alto impacto.
+
+---
+
+## 📫 Contacto
+
+- 📧 **Email:** harvack25@gmail.com  
+- 📱 **Teléfono:** +57 304 384 7699  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/harlinson-vasquez-casanova-27392129b  
+- 🧑‍💻 **GitHub:** https://github.com/harlinsonvasquez
